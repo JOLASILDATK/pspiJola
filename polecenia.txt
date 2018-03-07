@@ -1,0 +1,19 @@
+cd.. - katalog powyżej
+
+find "Jola" *.txt
+
+dir|find ".txt"
+
+dir > dir.txt
+
+dir >> dir.txt
+
+dir c:\windows\*.*
+
+dir c:\windows\*.* > nowy.txt
+
+"C:\Program Files (x86)\Mozilla Firefox\firefox.exe"
+
+sort < 1.txt
+
+FOR %A IN (1 2 3) DO ECHO %A
