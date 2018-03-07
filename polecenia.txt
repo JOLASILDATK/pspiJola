@@ -17,3 +17,4 @@ dir c:\windows\*.* > nowy.txt
 sort < 1.txt
 
 FOR %A IN (1 2 3) DO ECHO %A
+
